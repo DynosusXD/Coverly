@@ -53,4 +53,3 @@ skills-lock.json
 # Local archives
 *.zip
 *.tar.gz
-.env*
