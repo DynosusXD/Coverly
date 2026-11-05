@@ -1,0 +1,55 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Next.js build output
+/.next/
+/out/
+/build
+
+# Testing & coverage
+/coverage
+
+# Environment files
+.env
+.env*.local
+.env.production
+.env.development
+
+# Vercel
+.vercel
+
+# TypeScript & build cache
+*.tsbuildinfo
+next-env.d.ts
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+*.pem
+
+# Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Workspace & Agent caches
+.agents/
+.claude/
+.hermes/
+.mcpjam/
+skills-lock.json
+
+# Local archives
+*.zip
+*.tar.gz
